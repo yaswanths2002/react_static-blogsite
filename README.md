@@ -3,9 +3,9 @@
 
 It is a simple react static blog website where you can write your own blog blogs and show them to others.It was built using the React library that displays static content, such as blog posts and information about the author. The website consists of two main pages:
 
-The author page 
+1)The author page 
 
-The blogs page
+2)The blogs page
 
 The author page typically includes a brief biography of the author, their picture, and any other relevant information such as their social media handles and contact information. This page serves as an introduction to the author and helps readers connect with them on a personal level.
 
