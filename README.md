@@ -1,70 +1,60 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Static Blog Site
 
-## Available Scripts
+It is a simple react static blog website where you can write your own blog blogs and show them to others.It was built using the React library that displays static content, such as blog posts and information about the author. The website consists of two main pages:
 
-In the project directory, you can run:
+The author page 
 
-### `npm start`
+The blogs page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The author page typically includes a brief biography of the author, their picture, and any other relevant information such as their social media handles and contact information. This page serves as an introduction to the author and helps readers connect with them on a personal level.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The blog page, on the other hand, displays a list of all the blog posts written by the author. Each post is displayed as a title and a short summary, and readers can click on a post to read the full article. The blog page may also include filters or categories to help readers navigate and find the posts that interest them.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Demo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Sample Demo Blog Page: https://yashu2002-blogapp.web.app/blog
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Screenshots
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Blogs Page
+![App Screenshot](https://www.linkpicture.com/q/blog-1.png)
 
-## Learn More
+Author Page
+![App Screenshot](https://www.linkpicture.com/q/blog-2.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Run Locally
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Clone the project
 
-### Analyzing the Bundle Size
+```bash
+  git clone https://github.com/yaswanths2002/react_static-blogsite.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Go to the project directory
 
-### Making a Progressive Web App
+```bash
+  cd react_static-blogsite
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Install dependencies
 
-### Advanced Configuration
+```bash
+  npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Start the server
 
-### Deployment
+```bash
+  npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
